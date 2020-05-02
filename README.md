@@ -2,7 +2,7 @@
 A WordPress plugin to post [your-name] and [your-email] to SendPulse Book.
 
 ### Installing
-copy sendpulse_cf7 folder to wp-content\plugins\ and activate it.
+Go to wp-content\plugins\ and run ```git clone https://github.com/namli/sendpulse_cf7_integration.git sendpulse_cf7```
 
 
 ### Usage
