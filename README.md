@@ -1,5 +1,5 @@
 # Integrate SendPulse and Contact Form 7
-A WordPress plugin to post [your-name] and [your-email] to SendPulse Book.
+WordPress plugin to post [your-name] and [your-email] to SendPulse Book.
 
 ### Installing
 Go to wp-content\plugins\ and run ```git clone https://github.com/namli/sendpulse_cf7_integration.git sendpulse_cf7```
