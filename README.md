@@ -7,7 +7,7 @@ Go to wp-content\plugins\ and run ```git clone https://github.com/namli/sendpuls
 
 ### Usage
 1. Add new or edit exist Contact Form
-2. To to tab named **SendPulse integration**
+2. Go to tab named **SendPulse integration**
 3. Check **Send to api** if you need to send data to SendPulse
 4. Check **Disable send mail** if you need to prevent to send form to email.
 5. Fill fields **User ID** , **User SEC** form here https://login.sendpulse.com/settings/#api
